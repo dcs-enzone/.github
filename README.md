@@ -1,2 +1,1 @@
-# .github
-Enzone Profile
+# Strategic DCS GitHub Profile
